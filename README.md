@@ -1,5 +1,4 @@
-<img scr="imagenes/logo-LiTTo.png" width="200">
-
+<img src="imagenes/logo-LiTTo.png" width="200" style="float: right">   
 
 # Estrategias Algorítmicas
 
